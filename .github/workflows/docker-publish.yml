@@ -32,4 +32,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: alfg/ffmpeg_qnap:latest
+          tags: volkerhaensel/ffmpeg_qnap:latest
