@@ -1,6 +1,7 @@
 # ffmpeg_qnap
-FFMPEG Docker for NVIDIA on QNAP-TS473A
+##FFMPEG Docker for NVIDIA on QNAP-TS473A
 
+THIS is in EARLY DEVELOPMENT state - do not use this yet
 
 ## clone the repository to the current location ( cannot be / )
 `docker run -ti --rm -v $(pwd):/git alpine/git clone https://github.com/volker76/ffmpeg_qnap.git`
